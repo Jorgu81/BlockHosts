@@ -1,5 +1,8 @@
 #My hosts
 
+127.0.0.1 localhost
+::1 localhost
+
 #Otras
 #0.0.0.0 darken.eu
 #0.0.0.0 pool.ntp.org
