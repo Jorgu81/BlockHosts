@@ -1,0 +1,46 @@
+#My hosts
+
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+----------------------------
+
+
+#Listas antiGoogle
+127.0.0.1 1e100.net
+127.0.0.1 clients.google.com
+127.0.0.1 clients1.google.com
+127.0.0.1 clients2.google.com
+127.0.0.1 clients3.google.com
+127.0.0.1 clients4.google.com
+127.0.0.1 time.android.com
+127.0.0.1 time1.adroid.com
+127.0.0.1 time2.android.com
+127.0.0.1 time3.android.com
+127.0.0.1 time4.android.com
+127.0.0.1 time.google.com
+127.0.0.1 time1.google.com
+127.0.0.1 time2.google.com
+127.0.0.1 time3.google.com
+127.0.0.1 time4.google.com
+
+
+#Listas antiQualcomm
+127.0.0.1 http://xtra1.gpsonextra.net/xtra.bin
+127.0.0.1 http://xtra2.gpsonextra.net/xtra.bin
+127.0.0.1 http://xtra3.gpsonextra.net/xtra.bin
+127.0.0.1 http://xtrapath1.izatcloud.net/xtra2.bin
+127.0.0.1 http://xtrapath2.izatcloud.net/xtra2.bin
+127.0.0.1 http://xtrapath3.izatcloud.net/xtra2.bin
+127.0.0.1 https://xtrapath1.izatcloud.net/xtra3grc.bin
+127.0.0.1 https://xtrapath2.izatcloud.net/xtra3grc.bin
+127.0.0.1 https://xtrapath3.izatcloud.net/xtra3grc.bin
+127.0.0.1 https://xtra1.gpsonextra.net/xtra.bin
+127.0.0.1 https://xtra2.gpsonextra.net/xtra.bin
+127.0.0.1 https://xtra3.gpsonextra.net/xtra.bin
+127.0.0.1 izatcloud.net
+127.0.0.1 gpsonextra.net
+127.0.0.1 time.izatcloud.net
+127.0.0.1 xtrapath.izatcloud.net
+127.0.0.1 xtrapath2.izatcloud.net
+127.0.0.1 xtrapath3.izatcloud.net
