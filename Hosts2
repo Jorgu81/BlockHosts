@@ -1,7 +1,6 @@
 #My hosts
 
-127.0.0.1 localhost
-::1 localhost
+0.0.0.0 0.0.0.0
 
 #Otras
 #0.0.0.0 darken.eu
