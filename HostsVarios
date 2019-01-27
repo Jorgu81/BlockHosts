@@ -1,17 +1,10 @@
 #My hosts
 
-127.0.0.1 localhost
-
-::1 localhost #[IPv6]
-----------------------------
-
-
-
 #Otras
-127.0.0.1 darken.eu
-127.0.0.1 pool.ntp.org
-127.0.0.1 dolphin-server.co.uk
-127.0.0.1 all-systems.mcast.net
-127.0.0.1 m.20minutos.es
-127.0.0.1 jazztel.es
-127.0.0.1 router.movistar
+#0.0.0.0 darken.eu
+#0.0.0.0 pool.ntp.org
+#0.0.0.0 dolphin-server.co.uk
+#0.0.0.0 all-systems.mcast.net
+0.0.0.0 m.20minutos.es
+#0.0.0.0 jazztel.es
+#0.0.0.0 router.movistar
