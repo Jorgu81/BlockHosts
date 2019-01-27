@@ -1,5 +1,8 @@
 #My hosts
 
+127.0.0.1 localhost
+::1 localhost
+
 #Listas antiGoogle
 0.0.0.0 1e100.net
 0.0.0.0 clients.google.com
