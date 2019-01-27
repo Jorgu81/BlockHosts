@@ -5,6 +5,6 @@
 #0.0.0.0 pool.ntp.org
 #0.0.0.0 dolphin-server.co.uk
 #0.0.0.0 all-systems.mcast.net
-#0.0.0.0 m.20minutos.es
+0.0.0.0 www.20minutos.es
 #0.0.0.0 jazztel.es
 #0.0.0.0 router.movistar
