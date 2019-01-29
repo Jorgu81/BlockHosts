@@ -1,6 +1,6 @@
 #My hosts
 
-0.0.0.0 0.0.0.0
+
 
 #Otras
 #0.0.0.0 darken.eu
@@ -9,4 +9,4 @@
 #0.0.0.0 all-systems.mcast.net
 #0.0.0.0 jazztel.es
 #0.0.0.0 router.movistar
-0.0.0.0 muylinux.com
+127.0.0.1 muylinux.com
