@@ -22,12 +22,9 @@
 
 
 #Qualcomm Lists
-0.0.0.0 xtra1.gpsonextra.net/xtra.bin
-0.0.0.0 xtra2.gpsonextra.net/xtra.bin
-0.0.0.0 xtra3.gpsonextra.net/xtra.bin
-0.0.0.0 xtrapath1.izatcloud.net/xtra2.bin
-0.0.0.0 xtrapath2.izatcloud.net/xtra2.bin
-0.0.0.0 xtrapath3.izatcloud.net/xtra2.bin
+0.0.0.0 xtra1.gpsonextra.net
+0.0.0.0 xtra2.gpsonextra.net
+0.0.0.0 xtra3.gpsonextra.net
 0.0.0.0 izatcloud.net
 0.0.0.0 gpsonextra.net
 0.0.0.0 time.izatcloud.net
