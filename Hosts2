@@ -14,11 +14,11 @@
 0.0.0.0 router.movistar
 0.0.0.0 is-at
 0.0.0.0 192.168.0.1.domain
-0.0.0.0 firefox.com
+0.0.0.0 www.firefox.com
 0.0.0.0 mozilla.org
-0.0.0.0 mozilla.net
+0.0.0.0 www.mozilla.net
 0.0.0.0 safebrowsing.google.com
-0.0.0.0 mozilla.com
+0.0.0.0 www.mozilla.com
 
 
 
